@@ -1,0 +1,1330 @@
+fileFormatVersion: 2
+guid: 5d85d9fdb2a542a4597122ba2cdb2226
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 2f53325694f3b8d4d89943ddc1235e41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: halo 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1172
+      width: 300
+      height: 129
+    spriteID: cf7bbcc331b61404a8ad057b6da6c262
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1172}
+    spritePosition: {x: 390, y: 852}
+  - name: pelo front
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 4
+      width: 218
+      height: 132
+    spriteID: a3bc72597eb8ec141beb891fef1b438a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 382, y: 4}
+    spritePosition: {x: 403, y: 808}
+  - name: ojos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1985
+      width: 158
+      height: 28
+    spriteID: f5535bd9f195f0b41a6815d0954fde8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1985}
+    spritePosition: {x: 433, y: 774}
+  - name: cabeza
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1309
+      width: 192
+      height: 195
+    spriteID: 36d4570a2ced45f428c2df3d621712e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1309}
+    spritePosition: {x: 416, y: 726}
+  - name: oreja izquierda
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 1087
+      width: 37
+      height: 52
+    spriteID: b8d2ca39af77f0a43842d0748b762169
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 327, y: 1087}
+    spritePosition: {x: 397, y: 774}
+  - name: oreja derecha
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 331
+      y: 1590
+      width: 37
+      height: 52
+    spriteID: d1a41deaec9878f40ba189437ca37105
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 331, y: 1590}
+    spritePosition: {x: 590, y: 774}
+  - name: vestido 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 331
+      y: 1496
+      width: 42
+      height: 86
+    spriteID: 7026d37c262ea0346b62c67e2e3b2617
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 331, y: 1496}
+    spritePosition: {x: 491, y: 609}
+  - name: vestido 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1309
+      width: 154
+      height: 179
+    spriteID: f317e3391826a9e4f92edcf037546e59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1309}
+    spritePosition: {x: 435, y: 528}
+  - name: vestido 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 370
+      height: 334
+    spriteID: b141b3a6392e25a4e8a4a004ee98f165
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 327, y: 287}
+  - name: vestido 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 4
+      width: 390
+      height: 64
+    spriteID: e985c0a44f475d84d99e5a37bb2310bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 608, y: 4}
+    spritePosition: {x: 317, y: 272}
+  - name: brazos izq
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 248
+      width: 82
+      height: 172
+    spriteID: f1d4ccd51b421f54bab5927602f60f55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 382, y: 248}
+    spritePosition: {x: 383, y: 512}
+  - name: brazo der
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 428
+      width: 82
+      height: 172
+    spriteID: 1aa4e393acec3e34dba5947fae958266
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 382, y: 428}
+    spritePosition: {x: 559, y: 512}
+  - name: brazo 2 izq
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1496
+      width: 119
+      height: 177
+    spriteID: eb64de7d2f8e24446a3b483b88df013c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1496}
+    spritePosition: {x: 298, y: 375}
+  - name: brazos 2 der
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1681
+      width: 119
+      height: 177
+    spriteID: 7adbea94c8bff4d43bdba833e5b11382
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1681}
+    spritePosition: {x: 607, y: 375}
+  - name: dedo 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 144
+      width: 23
+      height: 57
+    spriteID: 410fdcc28abc3cd4daf68f672ac9f349
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 564, y: 144}
+    spritePosition: {x: 330, y: 344}
+  - name: dedo 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 312
+      y: 1260
+      width: 41
+      height: 35
+    spriteID: 366720430abfdef4a9f0d70b8862fa8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 312, y: 1260}
+    spritePosition: {x: 283, y: 362}
+  - name: dedo 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 1996
+      width: 37
+      height: 33
+    spriteID: 0ef2921077b84504c976fe3e818cb382
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 1996}
+    spritePosition: {x: 276, y: 375}
+  - name: dedo 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 209
+      width: 33
+      height: 31
+    spriteID: 3ee87c3e3c189604ab58005a61e1f43a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 564, y: 209}
+    spritePosition: {x: 280, y: 368}
+  - name: dedo 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 331
+      y: 1681
+      width: 23
+      height: 57
+    spriteID: 455e2967336e03541aaddb8d82f928fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 331, y: 1681}
+    spritePosition: {x: 671, y: 344}
+  - name: dedo 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1996
+      width: 41
+      height: 35
+    spriteID: 71e4255bf9ac9bc46b3178229a12daf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1996}
+    spritePosition: {x: 700, y: 362}
+  - name: dedo 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 331
+      y: 1746
+      width: 37
+      height: 33
+    spriteID: 0b0559a83aecf364f87dde8a169b89c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 331, y: 1746}
+    spritePosition: {x: 711, y: 375}
+  - name: dedo 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 1996
+      width: 33
+      height: 31
+    spriteID: 7e150accd8be7094b80349a9330dfbac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 98, y: 1996}
+    spritePosition: {x: 711, y: 368}
+  - name: 'piernas 1 der '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 891
+      width: 119
+      height: 188
+    spriteID: 6ee6afa061c2d0f4ba4c8049fa137fe6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 891}
+    spritePosition: {x: 521, y: 193}
+  - name: 'pierna 1 izq '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 610
+      width: 120
+      height: 188
+    spriteID: a8566091862914d4c8f94b79d4dccd4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 610}
+    spritePosition: {x: 383, y: 193}
+  - name: detalle zapatos der
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 806
+      width: 70
+      height: 40
+    spriteID: b54fe5acf7976ea4787646e4af27e555
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 304, y: 806}
+    spritePosition: {x: 546, y: 34}
+  - name: detalle zapatos izq
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 1087
+      width: 71
+      height: 40
+    spriteID: 921ad031817f1ba4dbeb81616d5baf50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 1087}
+    spritePosition: {x: 408, y: 34}
+  - name: piernas 2 izq
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1512
+      width: 128
+      height: 234
+    spriteID: 23055ecad687aa64c85af0f46c207a8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1512}
+    spritePosition: {x: 529, y: 32}
+  - name: piernas 2 der
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1754
+      width: 128
+      height: 234
+    spriteID: 900e19e0127f36d4f86afa03c76ee0bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1754}
+    spritePosition: {x: 367, y: 32}
+  - name: cuello
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 806
+      width: 48
+      height: 68
+    spriteID: afcde2f998c0cb141a683e7c33c1bc24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 806}
+    spritePosition: {x: 488, y: 676}
+  - name: pelo back
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 346
+      width: 348
+      height: 256
+    spriteID: 505b728c82be4574c891d3e75190aea2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 346}
+    spritePosition: {x: 338, y: 709}
+  - name: vestido back
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1866
+      width: 154
+      height: 111
+    spriteID: 2b0d40b03a8944b4ebade3d05e55c77d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1866}
+    spritePosition: {x: 435, y: 596}
+  - name: cinta 2 der
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 312
+      y: 1172
+      width: 61
+      height: 80
+    spriteID: 28a079517f2861b449cb6bc5e5b44370
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 312, y: 1172}
+    spritePosition: {x: 449, y: 531}
+  - name: cinta 2 izq
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 608
+      width: 61
+      height: 80
+    spriteID: 9b66c1a0d06e42b49a36b774b20a2623
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 382, y: 608}
+    spritePosition: {x: 514, y: 531}
+  - name: cinta 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 144
+      width: 174
+      height: 96
+    spriteID: 4233128457f735547a682b18c886ac5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 382, y: 144}
+    spritePosition: {x: 425, y: 572}
+  - name: ala der
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 610
+      width: 236
+      height: 273
+    spriteID: d5e429657057d83488fbe66cbcda4790
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 610}
+    spritePosition: {x: 519, y: 447}
+  - name: ala 1 izq
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 891
+      width: 236
+      height: 273
+    spriteID: f74db7e7dc41da749a54c18fc0e607af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 891}
+    spritePosition: {x: 269, y: 447}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: Group 1 copy 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 49bd91bd1fadc5449a30a95f6dc5f3ac
+    layerID: 150
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: halo 1
+    spriteName: halo 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cf7bbcc331b61404a8ad057b6da6c262
+    layerID: 149
+    mosaicPosition: {x: 4, y: 1172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: pelo front
+    spriteName: pelo front
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a3bc72597eb8ec141beb891fef1b438a
+    layerID: 145
+    mosaicPosition: {x: 382, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ojos
+    spriteName: ojos
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f5535bd9f195f0b41a6815d0954fde8e
+    layerID: 143
+    mosaicPosition: {x: 204, y: 1985}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabeza
+    spriteName: cabeza
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 36d4570a2ced45f428c2df3d621712e7
+    layerID: 142
+    mosaicPosition: {x: 4, y: 1309}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: oreja izquierda
+    spriteName: oreja izquierda
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b8d2ca39af77f0a43842d0748b762169
+    layerID: 151
+    mosaicPosition: {x: 327, y: 1087}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: oreja derecha
+    spriteName: oreja derecha
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d1a41deaec9878f40ba189437ca37105
+    layerID: 140
+    mosaicPosition: {x: 331, y: 1590}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: vestido 1
+    spriteName: vestido 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7026d37c262ea0346b62c67e2e3b2617
+    layerID: 138
+    mosaicPosition: {x: 331, y: 1496}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: vestido 2
+    spriteName: vestido 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f317e3391826a9e4f92edcf037546e59
+    layerID: 136
+    mosaicPosition: {x: 204, y: 1309}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: vestido 3
+    spriteName: vestido 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b141b3a6392e25a4e8a4a004ee98f165
+    layerID: 134
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: vestido 4
+    spriteName: vestido 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e985c0a44f475d84d99e5a37bb2310bd
+    layerID: 132
+    mosaicPosition: {x: 608, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: brazos izq
+    spriteName: brazos izq
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f1d4ccd51b421f54bab5927602f60f55
+    layerID: 152
+    mosaicPosition: {x: 382, y: 248}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: brazo der
+    spriteName: brazo der
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1aa4e393acec3e34dba5947fae958266
+    layerID: 130
+    mosaicPosition: {x: 382, y: 428}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: brazo 2 izq
+    spriteName: brazo 2 izq
+    isGroup: 0
+    parentIndex: 0
+    spriteID: eb64de7d2f8e24446a3b483b88df013c
+    layerID: 153
+    mosaicPosition: {x: 204, y: 1496}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: brazos 2 der
+    spriteName: brazos 2 der
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7adbea94c8bff4d43bdba833e5b11382
+    layerID: 128
+    mosaicPosition: {x: 204, y: 1681}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: dedos izq
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 8de27e13b9341024d825744e712d091c
+    layerID: 159
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: dedo 1
+    spriteName: dedo 1
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 410fdcc28abc3cd4daf68f672ac9f349
+    layerID: 158
+    mosaicPosition: {x: 564, y: 144}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: dedo 2
+    spriteName: dedo 2
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 366720430abfdef4a9f0d70b8862fa8e
+    layerID: 157
+    mosaicPosition: {x: 312, y: 1260}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: dedo 3
+    spriteName: dedo 3
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 0ef2921077b84504c976fe3e818cb382
+    layerID: 156
+    mosaicPosition: {x: 53, y: 1996}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: dedo 4
+    spriteName: dedo 4
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 3ee87c3e3c189604ab58005a61e1f43a
+    layerID: 155
+    mosaicPosition: {x: 564, y: 209}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: dedos der
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 819f13047d152ab4791c195e35cc1585
+    layerID: 126
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: dedo 1
+    spriteName: dedo 1
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 455e2967336e03541aaddb8d82f928fa
+    layerID: 125
+    mosaicPosition: {x: 331, y: 1681}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: dedo 2
+    spriteName: dedo 2
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 71e4255bf9ac9bc46b3178229a12daf8
+    layerID: 123
+    mosaicPosition: {x: 4, y: 1996}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: dedo 3
+    spriteName: dedo 3
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 0b0559a83aecf364f87dde8a169b89c2
+    layerID: 121
+    mosaicPosition: {x: 331, y: 1746}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: dedo 4
+    spriteName: dedo 4
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 7e150accd8be7094b80349a9330dfbac
+    layerID: 119
+    mosaicPosition: {x: 98, y: 1996}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'piernas 1 der '
+    spriteName: 'piernas 1 der '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6ee6afa061c2d0f4ba4c8049fa137fe6
+    layerID: 160
+    mosaicPosition: {x: 248, y: 891}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'pierna 1 izq '
+    spriteName: 'pierna 1 izq '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a8566091862914d4c8f94b79d4dccd4f
+    layerID: 116
+    mosaicPosition: {x: 248, y: 610}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: detalle zapatos der
+    spriteName: detalle zapatos der
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b54fe5acf7976ea4787646e4af27e555
+    layerID: 161
+    mosaicPosition: {x: 304, y: 806}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: detalle zapatos izq
+    spriteName: detalle zapatos izq
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 921ad031817f1ba4dbeb81616d5baf50
+    layerID: 114
+    mosaicPosition: {x: 248, y: 1087}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: piernas 2 izq
+    spriteName: piernas 2 izq
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 23055ecad687aa64c85af0f46c207a8f
+    layerID: 162
+    mosaicPosition: {x: 4, y: 1512}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: piernas 2 der
+    spriteName: piernas 2 der
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 900e19e0127f36d4f86afa03c76ee0bc
+    layerID: 112
+    mosaicPosition: {x: 4, y: 1754}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cuello
+    spriteName: cuello
+    isGroup: 0
+    parentIndex: 0
+    spriteID: afcde2f998c0cb141a683e7c33c1bc24
+    layerID: 110
+    mosaicPosition: {x: 248, y: 806}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: pelo back
+    spriteName: pelo back
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 505b728c82be4574c891d3e75190aea2
+    layerID: 108
+    mosaicPosition: {x: 4, y: 346}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: vestido back
+    spriteName: vestido back
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2b0d40b03a8944b4ebade3d05e55c77d
+    layerID: 106
+    mosaicPosition: {x: 204, y: 1866}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cinta 2 der
+    spriteName: cinta 2 der
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 28a079517f2861b449cb6bc5e5b44370
+    layerID: 163
+    mosaicPosition: {x: 312, y: 1172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cinta 2 izq
+    spriteName: cinta 2 izq
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9b66c1a0d06e42b49a36b774b20a2623
+    layerID: 104
+    mosaicPosition: {x: 382, y: 608}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cinta 1
+    spriteName: cinta 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4233128457f735547a682b18c886ac5a
+    layerID: 102
+    mosaicPosition: {x: 382, y: 144}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ala der
+    spriteName: ala der
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d5e429657057d83488fbe66cbcda4790
+    layerID: 164
+    mosaicPosition: {x: 4, y: 610}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ala 1 izq
+    spriteName: ala 1 izq
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f74db7e7dc41da749a54c18fc0e607af
+    layerID: 100
+    mosaicPosition: {x: 4, y: 891}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
