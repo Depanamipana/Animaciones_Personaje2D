@@ -6373,7 +6373,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: cara/GameObject
+    path: root/piernas/muslo izq/canilla izq
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -6385,7 +6385,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: cara/GameObject
+    path: root/piernas/muslo izq/canilla izq
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -6397,7 +6397,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: cara/GameObject
+    path: root/piernas/muslo izq/canilla izq
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -6409,7 +6409,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: root/cadera
+    path: cara/GameObject
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -6421,7 +6421,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: root/cadera
+    path: cara/GameObject
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -6433,7 +6433,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: root/cadera
+    path: cara/GameObject
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -6985,7 +6985,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: root/piernas/muslo izq/canilla izq
+    path: root/cadera
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -6997,7 +6997,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: root/piernas/muslo izq/canilla izq
+    path: root/cadera
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -7009,7 +7009,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: root/piernas/muslo izq/canilla izq
+    path: root/cadera
     classID: 4
     script: {fileID: 0}
     flags: 0
